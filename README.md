@@ -46,40 +46,41 @@ My current focus is modern frontend development with JavaScript, React, Next.js,
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🛍️ Product Admin Dashboard
+### 🛍️ Product Admin Dashboard
 
-A responsive product-management dashboard developed with Next.js, React, Tailwind CSS, Axios and the DummyJSON API.
+A responsive product-management dashboard developed with **Next.js, React, Tailwind CSS, Axios and the DummyJSON API**.
 
 Features include authentication, protected pages, debounced search, AbortController, API pagination, category filtering, sorting, URL-based state, product details and responsive desktop/mobile layouts.
 
-Built with: Next.js · React · Tailwind CSS · Axios · REST API
+**Built with:** Next.js · React · Tailwind CSS · Axios · REST API
 
-"Explore the repository →" (https://github.com/faikp/product-admin-dashboard)
+[Explore the repository →](https://github.com/faikp/product-admin-dashboard)
 
 ---
 
-📱 Contact App
+### 📱 Contact App
 
-A responsive contact-management application built with HTML, CSS and JavaScript.
+A responsive contact-management application built with **HTML, CSS and JavaScript**.
 
 Features include contact creation, searching, LocalStorage persistence, dark mode and responsive layouts.
 
-"Explore the repository →" (https://github.com/faikp/contact-app)
+[Explore the repository →](https://github.com/faikp/contact-app)
 
 ---
 
-🌐 Personal Portfolio
+### 🌐 Personal Portfolio
 
 My personal portfolio showcasing my frontend development work, projects and skills.
 
-Built with: HTML · CSS · JavaScript
+**Built with:** HTML · CSS · JavaScript
 
-"Repository →" (https://github.com/faikp/11-responsive-portfolio)
+[Repository →](https://github.com/faikp/11-responsive-portfolio)
 
-"Visit the live portfolio →" (https://faikp-portfolio-dev.vercel.app/)
+[Visit the live portfolio →](https://faikp-portfolio-dev.vercel.app/)
 
+---
 ---
 
 📖 What I'm Learning
@@ -107,7 +108,7 @@ My goal is to become a stronger software developer by building scalable and acce
   <a href="https://github.com/faikp">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammad-faik-patel-7b1405333">
+  <a href="https://www.linkedin.com/in/faik-patel-a31639424">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://faikp-portfolio-dev.vercel.app/">
